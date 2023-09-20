@@ -10,7 +10,6 @@ https://expenditure-management-shashankhl.netlify.app/
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Features](#features)
-  - [Demo](#demo)
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
     - [Installation](#installation)
