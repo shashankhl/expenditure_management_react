@@ -2,6 +2,8 @@
 
 A simple web application for managing your expenses efficiently.
 
+https://expenditure-management-shashankhl.netlify.app/
+
 ## Table of Contents
 
 - [Expenditure Management](#expenditure-management)
@@ -12,19 +14,14 @@ A simple web application for managing your expenses efficiently.
   - [Prerequisites](#prerequisites)
   - [Getting Started](#getting-started)
     - [Installation](#installation)
-    - [Usage](#usage)
-  - [Folder Structure](#folder-structure)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
 
 ## Description
 
-The Expenditure Management web application allows users to track, categorize, and visualize their expenses effortlessly. It provides a user-friendly interface for adding, editing, and deleting expenses while offering insights into spending habits.
+The Expenditure Management web application allows users to track, categorize, and visualize their expenses effortlessly. It provides a user-friendly interface for adding expenses while offering insights into spending habits.
 
 ## Features
 
-- Expense Tracking: Add, edit, and delete expenses.
+- Expense Tracking: Add expenses.
 - Expense Categories: Categorize expenses for better organization.
 - Filtering: Filter expenses by category and date.
 - Statistics: Visualize spending habits through charts and graphs.
@@ -46,3 +43,5 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
    git clone https://github.com/your-username/expenditure-management.git
+2. Install npm package
+   npm start
